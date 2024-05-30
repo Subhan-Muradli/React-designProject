@@ -1,0 +1,63 @@
+.picture1{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -380px;
+    left: 100px;
+}
+
+.picture2{
+    position: relative;
+    left: 1000px;
+    top: 100px;
+    width: 300px;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    position: relative;
+    top: -420px;
+    left: 150px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    position: relative;
+    top: -450px;
+    left: 1100px;
+}
+
+.write{
+    width: 500px;
+    position: relative;
+    top: -300px;
+    left: 100px;
+}
+
+.email{
+    padding: 10px;
+    position: relative;
+    top: -300px;
+    left: 100px;
+    width: 200px;
+}
+
+.button3{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: -296px;
+    left: 100px;
+    border-radius: 0px;
+    height: 40px;
+}
+
+.footerbackground{
+    background-color: aquamarine;
+    width: 1473px;
+    height: 200px;
+}
